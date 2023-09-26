@@ -1,0 +1,17 @@
+{
+  "name": "project-naufal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "live-server": "^1.2.2",
+    "tailwindcss": "^3.3.3"
+  }
+}
